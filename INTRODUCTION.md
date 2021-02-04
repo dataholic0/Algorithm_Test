@@ -1,5 +1,5 @@
 # Algorithm_Test
-Learning and Practicing Algorithm solving in several coding platforms
+Learning and Practicing Algorithm solving from following several coding platforms
 
 1) HackerRank
 
