@@ -39,11 +39,3 @@ def rustMurderer(n, roads, source):
 				queue = temp_queue
 	
 	return answer
-
-
-
-n = 4
-roads = [[1,4],[1,2],[2,3]]
-source = 1
-
-rustMurdered(n,roads, source)
